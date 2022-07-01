@@ -1,0 +1,5 @@
+* storage.sql -> MS SQL storage for data
+* main.py     -> main script, running data extraction
+* core.py     -> script core itself
+* log.txt     -> (removable) recreates itself each time the script is run 
+* BTC.pbix    -> PowerBI Dashboard sample for the extracted data

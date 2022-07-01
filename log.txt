@@ -1,0 +1,282 @@
+
+Datetime: 2022-06-22 13:54:13.423058
+USD: 20406.4892 | EUR: 19397.3021 | GBP: 16566.5355
+Min rate: 10.00 | Max rate: 20416.49 | Avg rate: 10213.250000
+Min change: 20406.4892000 | Max change: 20406.4892000 | Avg change: 20406.4892000
+Std USD: 14429.57 | Std EUR: 13715.96 | Std GBP: 11714.31
+
+Datetime: 2022-06-22 13:55:13.561899
+USD: 0.3565 | EUR: 0.3418 | GBP: 0.2856
+Min rate: 20416.49 | Max rate: 20416.85 | Avg rate: 20416.670000
+Min change: 0.3565000 | Max change: 20406.4892000 | Avg change: 10203.4228500
+Std USD: 0.25 | Std EUR: 0.24 | Std GBP: 0.21
+
+Datetime: 2022-06-22 13:56:13.722809
+USD: -4.553 | EUR: -4.3228 | GBP: -3.6982
+Min rate: 20412.30 | Max rate: 20416.85 | Avg rate: 20414.580000
+Min change: -4.5530000 | Max change: 0.3565000 | Avg change: -2.0982500
+Std USD: 3.22 | Std EUR: 3.05 | Std GBP: 2.62
+
+Datetime: 2022-06-22 13:57:13.886770
+USD: -6.5513 | EUR: -6.2275 | GBP: -5.3149
+Min rate: 20405.75 | Max rate: 20416.85 | Avg rate: 20411.630000
+Min change: -6.5513000 | Max change: 0.3565000 | Avg change: -3.5826000
+Std USD: 5.58 | Std EUR: 5.3 | Std GBP: 4.53
+
+Datetime: 2022-06-22 13:58:14.070721
+USD: -6.9037 | EUR: -6.5587 | GBP: -5.6091
+Min rate: 20398.85 | Max rate: 20416.85 | Avg rate: 20408.440000
+Min change: -6.9037000 | Max change: 0.3565000 | Avg change: -4.4128750
+Std USD: 7.85 | Std EUR: 7.46 | Std GBP: 6.37
+
+Datetime: 2022-06-22 13:59:14.224855
+USD: 12.1687 | EUR: 11.572 | GBP: 9.8839
+Min rate: 20398.85 | Max rate: 20416.85 | Avg rate: 20408.950000
+Min change: -6.9037000 | Max change: 12.1687000 | Avg change: -1.0965600
+Std USD: 6.9 | Std EUR: 6.55 | Std GBP: 5.6
+
+Datetime: 2022-06-22 14:00:14.393912
+USD: -6.3062 | EUR: -5.9912 | GBP: -5.1152
+Min rate: 20398.85 | Max rate: 20416.85 | Avg rate: 20408.250000
+Min change: -6.9037000 | Max change: 12.1687000 | Avg change: -1.9648330
+Std USD: 6.41 | Std EUR: 6.09 | Std GBP: 5.2
+
+Datetime: 2022-06-22 14:01:14.562720
+USD: -15.2233 | EUR: -14.4756 | GBP: -12.3584
+Min rate: 20389.49 | Max rate: 20416.85 | Avg rate: 20405.570000
+Min change: -15.2233000 | Max change: 12.1687000 | Avg change: -3.8589000
+Std USD: 9.19 | Std EUR: 8.74 | Std GBP: 7.46
+
+Datetime: 2022-06-22 14:02:14.719587
+USD: 11.667 | EUR: 11.0978 | GBP: 9.4769
+Min rate: 20389.49 | Max rate: 20416.85 | Avg rate: 20405.020000
+Min change: -15.2233000 | Max change: 12.1687000 | Avg change: -1.9181630
+Std USD: 8.65 | Std EUR: 8.22 | Std GBP: 7.02
+
+Datetime: 2022-06-22 14:03:14.892130
+USD: 31.9688 | EUR: 30.3892 | GBP: 25.9555
+Min rate: 20389.49 | Max rate: 20433.13 | Avg rate: 20408.140000
+Min change: -15.2233000 | Max change: 31.9688000 | Avg change: 1.8470560
+Std USD: 12.38 | Std EUR: 11.77 | Std GBP: 10.05
+
+Datetime: 2022-06-22 14:04:15.017921
+USD: -12.8807 | EUR: -12.2437 | GBP: -10.4616
+Min rate: 20389.49 | Max rate: 20433.13 | Avg rate: 20409.350000
+Min change: -15.2233000 | Max change: 31.9688000 | Avg change: 0.3742800
+Std USD: 12.28 | Std EUR: 11.68 | Std GBP: 9.98
+
+Datetime: 2022-06-22 14:05:15.160132
+USD: 15.9264 | EUR: 15.1362 | GBP: 12.9299
+Min rate: 20389.49 | Max rate: 20436.18 | Avg rate: 20411.790000
+Min change: -15.2233000 | Max change: 31.9688000 | Avg change: 1.7881090
+Std USD: 14.19 | Std EUR: 13.49 | Std GBP: 11.52
+
+Datetime: 2022-06-22 14:06:15.299409
+USD: 5.1086 | EUR: 4.8557 | GBP: 4.1506
+Min rate: 20389.49 | Max rate: 20441.29 | Avg rate: 20414.250000
+Min change: -15.2233000 | Max change: 31.9688000 | Avg change: 2.0648170
+Std USD: 15.98 | Std EUR: 15.2 | Std GBP: 12.98
+
+Datetime: 2022-06-22 14:07:15.447097
+USD: -7.4082 | EUR: -7.0449 | GBP: -6.0131
+Min rate: 20389.49 | Max rate: 20441.29 | Avg rate: 20415.760000
+Min change: -15.2233000 | Max change: 31.9688000 | Avg change: 1.3361230
+Std USD: 16.24 | Std EUR: 15.44 | Std GBP: 13.19
+
+Datetime: 2022-06-22 14:08:15.573732
+USD: -0.7959 | EUR: -0.7633 | GBP: -0.6508
+Min rate: 20389.49 | Max rate: 20441.29 | Avg rate: 20417.000000
+Min change: -15.2233000 | Max change: 31.9688000 | Avg change: 1.1838360
+Std USD: 16.28 | Std EUR: 15.48 | Std GBP: 13.22
+
+Datetime: 2022-06-22 14:09:15.711478
+USD: -35.1596 | EUR: -33.4288 | GBP: -28.5509
+Min rate: 20389.49 | Max rate: 20441.29 | Avg rate: 20415.720000
+Min change: -35.1596000 | Max change: 31.9688000 | Avg change: -1.2390600
+Std USD: 16.44 | Std EUR: 15.63 | Std GBP: 13.35
+
+Datetime: 2022-06-22 14:10:15.855955
+USD: -12.2896 | EUR: -11.6814 | GBP: -9.9794
+Min rate: 20385.63 | Max rate: 20441.29 | Avg rate: 20413.840000
+Min change: -35.1596000 | Max change: 31.9688000 | Avg change: -1.9297190
+Std USD: 17.58 | Std EUR: 16.71 | Std GBP: 14.27
+
+Datetime: 2022-06-22 14:11:16.002102
+USD: 0.9294 | EUR: 0.8818 | GBP: 0.7549
+Min rate: 20385.63 | Max rate: 20441.29 | Avg rate: 20412.240000
+Min change: -35.1596000 | Max change: 31.9688000 | Avg change: -1.7615350
+Std USD: 18.26 | Std EUR: 17.36 | Std GBP: 14.83
+
+Datetime: 2022-06-22 14:12:16.161838
+USD: 0.0244 | EUR: 0.0255 | GBP: 0.0252
+Min rate: 20385.63 | Max rate: 20441.29 | Avg rate: 20410.810000
+Min change: -35.1596000 | Max change: 31.9688000 | Avg change: -1.6623170
+Std USD: 18.72 | Std EUR: 17.79 | Std GBP: 15.2
+
+Datetime: 2022-06-22 14:13:16.317047
+USD: 13.8939 | EUR: 13.1985 | GBP: 11.2724
+Min rate: 20385.63 | Max rate: 20441.29 | Avg rate: 20410.270000
+Min change: -35.1596000 | Max change: 31.9688000 | Avg change: -0.8435680
+Std USD: 18.34 | Std EUR: 17.44 | Std GBP: 14.89
+
+Datetime: 2022-06-22 14:14:16.514830
+USD: 38.0936 | EUR: 36.2054 | GBP: 30.9281
+Min rate: 20385.63 | Max rate: 20441.29 | Avg rate: 20411.680000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.1032900
+Std USD: 18.94 | Std EUR: 18.01 | Std GBP: 15.38
+
+Datetime: 2022-06-22 14:15:16.700789
+USD: 11.0193 | EUR: 10.4666 | GBP: 8.942
+Min rate: 20385.63 | Max rate: 20449.58 | Avg rate: 20413.490000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.5754810
+Std USD: 20.23 | Std EUR: 19.23 | Std GBP: 16.43
+
+Datetime: 2022-06-22 14:16:16.865791
+USD: 31.6702 | EUR: 30.102 | GBP: 25.7162
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20416.570000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 2.9434230
+Std USD: 24.46 | Std EUR: 23.26 | Std GBP: 19.86
+
+Datetime: 2022-06-22 14:17:17.005973
+USD: -18.1096 | EUR: -17.2126 | GBP: -14.7075
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20418.590000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 2.0280740
+Std USD: 25.8 | Std EUR: 24.52 | Std GBP: 20.95
+
+Datetime: 2022-06-22 14:18:17.193909
+USD: 0.1701 | EUR: 0.1586 | GBP: 0.1402
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20420.460000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.9506580
+Std USD: 26.83 | Std EUR: 25.51 | Std GBP: 21.79
+
+Datetime: 2022-06-22 14:19:17.318436
+USD: -11.8522 | EUR: -11.2677 | GBP: -9.6228
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20421.700000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.3985440
+Std USD: 26.99 | Std EUR: 25.66 | Std GBP: 21.91
+
+Datetime: 2022-06-22 14:20:17.462553
+USD: -6.9475 | EUR: -6.5997 | GBP: -5.6418
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20422.570000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.0775420
+Std USD: 26.82 | Std EUR: 25.49 | Std GBP: 21.78
+
+Datetime: 2022-06-22 14:21:17.986678
+USD: 9.2577 | EUR: 8.798 | GBP: 7.5126
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20423.730000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.3805110
+Std USD: 26.98 | Std EUR: 25.64 | Std GBP: 21.9
+
+Datetime: 2022-06-22 14:22:18.127055
+USD: -0.0344 | EUR: -0.0325 | GBP: -0.0234
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20424.800000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.3299790
+Std USD: 27.07 | Std EUR: 25.73 | Std GBP: 21.98
+
+Datetime: 2022-06-22 14:23:18.962838
+USD: -6.8305 | EUR: -6.4912 | GBP: -5.5457
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20425.560000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.0485830
+Std USD: 26.9 | Std EUR: 25.57 | Std GBP: 21.84
+
+Datetime: 2022-06-22 14:24:19.614256
+USD: 17.8288 | EUR: 16.9468 | GBP: 14.4803
+Min rate: 20385.63 | Max rate: 20481.25 | Avg rate: 20426.870000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.6079230
+Std USD: 27.38 | Std EUR: 26.03 | Std GBP: 22.23
+
+Datetime: 2022-06-22 14:25:20.220142
+USD: 25.9111 | EUR: 24.6282 | GBP: 21.0389
+Min rate: 20385.63 | Max rate: 20490.65 | Avg rate: 20428.930000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 2.3918970
+Std USD: 29.26 | Std EUR: 27.81 | Std GBP: 23.76
+
+Datetime: 2022-06-22 14:26:20.436338
+USD: -21.6795 | EUR: -20.6107 | GBP: -17.6039
+Min rate: 20385.63 | Max rate: 20490.65 | Avg rate: 20430.180000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 1.6396660
+Std USD: 29.64 | Std EUR: 28.18 | Std GBP: 24.07
+
+Datetime: 2022-06-22 14:27:21.195519
+USD: 26.1994 | EUR: 24.9032 | GBP: 21.2674
+Min rate: 20385.63 | Max rate: 20495.17 | Avg rate: 20432.150000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 2.3839000
+Std USD: 31.29 | Std EUR: 29.74 | Std GBP: 25.41
+
+Datetime: 2022-06-22 14:28:21.639308
+USD: 12.8982 | EUR: 12.2644 | GBP: 10.4702
+Min rate: 20385.63 | Max rate: 20508.07 | Avg rate: 20434.380000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 2.6931440
+Std USD: 33.45 | Std EUR: 31.8 | Std GBP: 27.16
+
+Datetime: 2022-06-22 14:29:22.266278
+USD: 6.5813 | EUR: 6.2621 | GBP: 5.3452
+Min rate: 20385.63 | Max rate: 20514.65 | Avg rate: 20436.670000
+Min change: -35.1596000 | Max change: 38.0936000 | Avg change: 2.8042340
+Std USD: 35.64 | Std EUR: 33.88 | Std GBP: 28.94
+
+Datetime: 2022-06-22 14:30:23.068393
+USD: 66.0447 | EUR: 62.781 | GBP: 53.6171
+Min rate: 20385.63 | Max rate: 20580.69 | Avg rate: 20440.670000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 4.5609140
+Std USD: 42.54 | Std EUR: 40.44 | Std GBP: 34.54
+
+Datetime: 2022-06-22 14:31:23.745999
+USD: -8.0976 | EUR: -7.7009 | GBP: -6.5814
+Min rate: 20385.63 | Max rate: 20580.69 | Avg rate: 20444.240000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 4.2187920
+Std USD: 47.22 | Std EUR: 44.89 | Std GBP: 38.34
+
+Datetime: 2022-06-22 14:32:24.505911
+USD: -32.1965 | EUR: -30.6082 | GBP: -26.1442
+Min rate: 20385.63 | Max rate: 20580.69 | Avg rate: 20446.770000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 3.2604950
+Std USD: 49.12 | Std EUR: 46.69 | Std GBP: 39.88
+
+Datetime: 2022-06-22 14:33:24.814297
+USD: 49.572 | EUR: 47.1202 | GBP: 40.2414
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20450.440000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 4.4479690
+Std USD: 53.62 | Std EUR: 50.97 | Std GBP: 43.54
+
+Datetime: 2022-06-22 14:34:25.348315
+USD: -32.3095 | EUR: -30.7142 | GBP: -26.233
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20453.120000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 3.5290330
+Std USD: 55.58 | Std EUR: 52.83 | Std GBP: 45.13
+
+Datetime: 2022-06-22 14:35:25.694332
+USD: -8.1485 | EUR: -7.7503 | GBP: -6.6193
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20455.470000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 3.2442150
+Std USD: 56.91 | Std EUR: 54.09 | Std GBP: 46.2
+
+Datetime: 2022-06-22 14:36:26.019144
+USD: 14.2039 | EUR: 13.5 | GBP: 11.5319
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20458.050000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 3.5051600
+Std USD: 58.64 | Std EUR: 55.74 | Std GBP: 47.61
+
+Datetime: 2022-06-22 14:37:27.194671
+USD: -15.9803 | EUR: -15.1941 | GBP: -12.976
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20460.130000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 3.0520090
+Std USD: 59.53 | Std EUR: 56.58 | Std GBP: 48.33
+
+Datetime: 2022-06-22 14:38:27.483747
+USD: -10.5373 | EUR: -10.0203 | GBP: -8.5512
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20461.890000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 2.7431610
+Std USD: 59.96 | Std EUR: 57.0 | Std GBP: 48.69
+
+Datetime: 2022-06-22 14:39:28.272032
+USD: 25.8243 | EUR: 24.5449 | GBP: 20.9638
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20464.130000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 3.2560760
+Std USD: 61.17 | Std EUR: 58.14 | Std GBP: 49.66
+
+Datetime: 2022-06-22 14:40:28.964273
+USD: 0.614 | EUR: 0.5846 | GBP: 0.4989
+Min rate: 20385.63 | Max rate: 20589.96 | Avg rate: 20466.300000
+Min change: -35.1596000 | Max change: 66.0447000 | Avg change: 3.1986390
+Std USD: 62.24 | Std EUR: 59.16 | Std GBP: 50.53
